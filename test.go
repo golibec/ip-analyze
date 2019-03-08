@@ -1,4 +1,4 @@
-package ip-analyze
+package qqzengip
 // import	"fmt"
 // import "./qqzengip"
 
